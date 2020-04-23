@@ -1,3 +1,6 @@
+New Branch Created : Test2
+
+--------------------------------------------------------------------------------------------
 # Learn Automation Testing with Java and Selenium
 
 Thanks to:
